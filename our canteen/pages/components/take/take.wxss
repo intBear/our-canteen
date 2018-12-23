@@ -1,0 +1,19 @@
+
+.button-sp-area{
+    margin: 0 auto;
+    padding-top: 15px;
+    width: 60%;
+}
+.mini-btn{
+    margin-right: 5px;
+}
+.re_text
+{
+   text-align: center;
+   margin-top:200rpx;
+   margin-left: 180rpx;
+   margin-right: 180rpx;
+}
+page{
+    background-color: #CCEEFF;
+}
