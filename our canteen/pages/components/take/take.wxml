@@ -1,0 +1,13 @@
+<view>
+<view calss="re_text">
+            <view wx:for="{{post}}" wx:for-item="k">-----我是第{{k}}号</view>
+            <view wx:for="{{now}}" wx:for-item="p">-----当前第{{p}}号取餐</view>
+            <view wx:for="{{que}}" wx:for-item="j">-----排队人数:{{j}}</view>
+</view>
+<view class="button-sp-area">
+            <button class="weui-btn" bintap="back"  type="primary" plain="true">返回</button>
+</view>
+
+
+
+</view>
